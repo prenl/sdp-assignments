@@ -6,4 +6,5 @@ Software Design Patters course assignments (implementations)
 
 -   Assignment1 | Strategy and Observer patterns
 -   Assignment2 | Abstract Factory and Decorator patterns
--   To be continued...
+-   Assignment3 | Singletone and Command patterns
+-   Assignment4 | TBA...
